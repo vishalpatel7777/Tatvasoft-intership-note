@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "V:\\college\\SEM 7\\internship\\daily task\\day5\\BooksApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{524726B7-D4F1-4814-9B7D-4DBC27230BF5}|BooksApi.Services\\BooksApi.Services.csproj|v:\\college\\sem 7\\internship\\daily task\\day5\\booksapi\\booksapi.services\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{524726B7-D4F1-4814-9B7D-4DBC27230BF5}|BooksApi.Services\\BooksApi.Services.csproj|solutionrelative:booksapi.services\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6F43BC-63C8-4DB2-9801-22079BDC3462}|BooksApi\\BooksApi.csproj|v:\\college\\sem 7\\internship\\daily task\\day5\\booksapi\\booksapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF6F43BC-63C8-4DB2-9801-22079BDC3462}|BooksApi\\BooksApi.csproj|solutionrelative:booksapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6F43BC-63C8-4DB2-9801-22079BDC3462}|BooksApi\\BooksApi.csproj|v:\\college\\sem 7\\internship\\daily task\\day5\\booksapi\\booksapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF6F43BC-63C8-4DB2-9801-22079BDC3462}|BooksApi\\BooksApi.csproj|solutionrelative:booksapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6F43BC-63C8-4DB2-9801-22079BDC3462}|BooksApi\\BooksApi.csproj|v:\\college\\sem 7\\internship\\daily task\\day5\\booksapi\\booksapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF6F43BC-63C8-4DB2-9801-22079BDC3462}|BooksApi\\BooksApi.csproj|solutionrelative:booksapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6F43BC-63C8-4DB2-9801-22079BDC3462}|BooksApi\\BooksApi.csproj|v:\\college\\sem 7\\internship\\daily task\\day5\\booksapi\\booksapi\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF6F43BC-63C8-4DB2-9801-22079BDC3462}|BooksApi\\BooksApi.csproj|solutionrelative:booksapi\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72588BD-2F2C-4B46-AAC1-BDD39FE09B37}|BooksApi.Data\\BooksApi.Data.csproj|v:\\college\\sem 7\\internship\\daily task\\day5\\booksapi\\booksapi.data\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D72588BD-2F2C-4B46-AAC1-BDD39FE09B37}|BooksApi.Data\\BooksApi.Data.csproj|solutionrelative:booksapi.data\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D72588BD-2F2C-4B46-AAC1-BDD39FE09B37}|BooksApi.Data\\BooksApi.Data.csproj|v:\\college\\sem 7\\internship\\daily task\\day5\\booksapi\\booksapi.data\\booksapi.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D72588BD-2F2C-4B46-AAC1-BDD39FE09B37}|BooksApi.Data\\BooksApi.Data.csproj|solutionrelative:booksapi.data\\booksapi.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6F43BC-63C8-4DB2-9801-22079BDC3462}|BooksApi\\BooksApi.csproj|v:\\college\\sem 7\\internship\\daily task\\day5\\booksapi\\booksapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF6F43BC-63C8-4DB2-9801-22079BDC3462}|BooksApi\\BooksApi.csproj|solutionrelative:booksapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6F43BC-63C8-4DB2-9801-22079BDC3462}|BooksApi\\BooksApi.csproj|v:\\college\\sem 7\\internship\\daily task\\day5\\booksapi\\booksapi\\dto\\loginresdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF6F43BC-63C8-4DB2-9801-22079BDC3462}|BooksApi\\BooksApi.csproj|solutionrelative:booksapi\\dto\\loginresdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6F43BC-63C8-4DB2-9801-22079BDC3462}|BooksApi\\BooksApi.csproj|v:\\college\\sem 7\\internship\\daily task\\day5\\booksapi\\booksapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF6F43BC-63C8-4DB2-9801-22079BDC3462}|BooksApi\\BooksApi.csproj|solutionrelative:booksapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AAB21C-5370-452D-BEC0-734A9090C1B7}|BooksApi.Entities\\BooksApi.Entities.csproj|v:\\college\\sem 7\\internship\\daily task\\day5\\booksapi\\booksapi.entities\\migrations\\20250530081413_migrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37AAB21C-5370-452D-BEC0-734A9090C1B7}|BooksApi.Entities\\BooksApi.Entities.csproj|solutionrelative:booksapi.entities\\migrations\\20250530081413_migrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "V:\\college\\SEM 7\\internship\\daily task\\day5\\BooksApi\\BooksApi.Services\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "BooksApi.Services\\Services\\BookService.cs",
+              "ToolTip": "V:\\college\\SEM 7\\internship\\daily task\\day5\\BooksApi\\BooksApi.Services\\Services\\BookService.cs*",
+              "RelativeToolTip": "BooksApi.Services\\Services\\BookService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T10:09:32.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "V:\\college\\SEM 7\\internship\\daily task\\day5\\BooksApi\\BooksApi.Data\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BooksApi.Data\\Models\\Book.cs",
+              "ToolTip": "V:\\college\\SEM 7\\internship\\daily task\\day5\\BooksApi\\BooksApi.Data\\Models\\Book.cs",
+              "RelativeToolTip": "BooksApi.Data\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T08:21:21.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BooksApi.Data.csproj",
+              "DocumentMoniker": "V:\\college\\SEM 7\\internship\\daily task\\day5\\BooksApi\\BooksApi.Data\\BooksApi.Data.csproj",
+              "RelativeDocumentMoniker": "BooksApi.Data\\BooksApi.Data.csproj",
+              "ToolTip": "V:\\college\\SEM 7\\internship\\daily task\\day5\\BooksApi\\BooksApi.Data\\BooksApi.Data.csproj",
+              "RelativeToolTip": "BooksApi.Data\\BooksApi.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-30T08:21:17.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250530081413_Migrations.cs",
+              "DocumentMoniker": "V:\\college\\SEM 7\\internship\\daily task\\day5\\BooksApi\\BooksApi.Entities\\Migrations\\20250530081413_Migrations.cs",
+              "RelativeDocumentMoniker": "BooksApi.Entities\\Migrations\\20250530081413_Migrations.cs",
+              "ToolTip": "V:\\college\\SEM 7\\internship\\daily task\\day5\\BooksApi\\BooksApi.Entities\\Migrations\\20250530081413_Migrations.cs",
+              "RelativeToolTip": "BooksApi.Entities\\Migrations\\20250530081413_Migrations.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T08:14:15.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "V:\\college\\SEM 7\\internship\\daily task\\day5\\BooksApi\\BooksApi\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "BooksApi\\Controllers\\BookController.cs",
+              "ToolTip": "V:\\college\\SEM 7\\internship\\daily task\\day5\\BooksApi\\BooksApi\\Controllers\\BookController.cs*",
+              "RelativeToolTip": "BooksApi\\Controllers\\BookController.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T05:13:07.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginResDto.cs",
+              "DocumentMoniker": "V:\\college\\SEM 7\\internship\\daily task\\day5\\BooksApi\\BooksApi\\Dto\\LoginResDto.cs",
+              "RelativeDocumentMoniker": "BooksApi\\Dto\\LoginResDto.cs",
+              "ToolTip": "V:\\college\\SEM 7\\internship\\daily task\\day5\\BooksApi\\BooksApi\\Dto\\LoginResDto.cs",
+              "RelativeToolTip": "BooksApi\\Dto\\LoginResDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T05:10:00.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "V:\\college\\SEM 7\\internship\\daily task\\day5\\BooksApi\\BooksApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BooksApi\\Controllers\\UserController.cs",
+              "ToolTip": "V:\\college\\SEM 7\\internship\\daily task\\day5\\BooksApi\\BooksApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BooksApi\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T05:08:42.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JwtHelper.cs",
+              "DocumentMoniker": "V:\\college\\SEM 7\\internship\\daily task\\day5\\BooksApi\\BooksApi\\Helpers\\JwtHelper.cs",
+              "RelativeDocumentMoniker": "BooksApi\\Helpers\\JwtHelper.cs",
+              "ToolTip": "V:\\college\\SEM 7\\internship\\daily task\\day5\\BooksApi\\BooksApi\\Helpers\\JwtHelper.cs",
+              "RelativeToolTip": "BooksApi\\Helpers\\JwtHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T05:05:30.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "V:\\college\\SEM 7\\internship\\daily task\\day5\\BooksApi\\BooksApi\\Program.cs",
+              "RelativeDocumentMoniker": "BooksApi\\Program.cs",
+              "ToolTip": "V:\\college\\SEM 7\\internship\\daily task\\day5\\BooksApi\\BooksApi\\Program.cs",
+              "RelativeToolTip": "BooksApi\\Program.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T05:02:17.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "V:\\college\\SEM 7\\internship\\daily task\\day5\\BooksApi\\BooksApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BooksApi\\appsettings.Development.json",
+              "ToolTip": "V:\\college\\SEM 7\\internship\\daily task\\day5\\BooksApi\\BooksApi\\appsettings.Development.json",
+              "RelativeToolTip": "BooksApi\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-30T05:00:28.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "V:\\college\\SEM 7\\internship\\daily task\\day5\\BooksApi\\BooksApi\\appsettings.json",
+              "RelativeDocumentMoniker": "BooksApi\\appsettings.json",
+              "ToolTip": "V:\\college\\SEM 7\\internship\\daily task\\day5\\BooksApi\\BooksApi\\appsettings.json",
+              "RelativeToolTip": "BooksApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-30T05:00:24.88Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
